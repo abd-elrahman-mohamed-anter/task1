@@ -1,8 +1,8 @@
 #!/bin/bash
-echo 'we will add and delete omar '
-useradd omar
 
-userdel omar
+useradd ahmed
+
+userdel -r ahmed
 
 touch file1
 chmod 700 file1
@@ -13,12 +13,15 @@ rm -r hello
 
 find -name "test.txt" -type f
 
+alias e='echo'
 
 history
-echo $(date)
+date 
 pwd
 touch file2
 mv file2 file3
 
-mv file3  /home  
+mv file3  /home
+su - abdoomo
+exit 
 echo "done"
