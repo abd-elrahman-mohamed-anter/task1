@@ -48,6 +48,8 @@ The `git init` command initializes a new, empty Git repository in the current di
 git init
 ```
 
+![second screen](لقطة%20شاشة%202025-07-29%20142621.png)
+
 ![ first one ](لقطة%20شاشة%202025-07-29%20142606.png)
 
 ![ third one ](لقطة%20شاشة%202025-07-29%20142722.png)
@@ -99,13 +101,10 @@ git push -u origin main
 
 
 
-## Screenshots
-this is how i used git
 
 
 
 
-![second screen](لقطة%20شاشة%202025-07-29%20142621.png)
 
 
 
